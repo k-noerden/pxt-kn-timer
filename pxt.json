@@ -1,0 +1,19 @@
+{
+    "name": "pxt-kn-time",
+    "version": "0.0.0",
+    "description": "A micro:bit (makecode) library implementing timers",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "README.md",
+        "pxt-kn-timer.ts"
+    ],
+    "testFiles": [
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
